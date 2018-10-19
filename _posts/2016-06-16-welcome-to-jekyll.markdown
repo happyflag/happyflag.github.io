@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll and Renge!"
-date:   2016-06-16 13:08:09 -0700
-categories: jekyll update Renge
-tags: jekyll Renge
+title:  "Welcome to HappyFlag!"
+date:   2018-10-19 20:29:24 -0700
+categories: 随笔 档案 啦啦啦
+tags: 随笔 啦啦啦
 ---
 
 Renge is designed by Junchao (www.junchaowang.com), inspired by the amination called "のんのんびより" and named by one of the Characters, Renge Miyauchi (宮内 れんげ). If you have any questions, you can reach me via <a href="https://github.com/billyfish152/Renge">Renge on GitHub</a> by submitting an issue or via email billyfish152[at]gmail.com.
