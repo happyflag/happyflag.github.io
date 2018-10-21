@@ -1,4 +1,4 @@
-﻿# Welcome to Jekyll and Thank you for using Renge as your theme.
+# Welcome to Jekyll and Thank you for using Renge as your theme.
 
 # Renge is designed by Junchao (www.junchaowang.com) and inspired by amination
 # “のんのんびより” and named by one of the Characters "Renge Miyauchi (宮内 れんげ Miyauchi Renge)".
@@ -14,12 +14,13 @@
 # please change the belowing settings to your own.
 
 # Site settings
-title:HappyFlag
-email:2205612048@qq.com
+title: Renge
+email: billyfish152@gmail.com
 description: Renge is a Jekyll theme that is designed by Junchao (www.junchaowang.com) and inspired by amination “のんのんびより” and named by one of the Characters "Renge Miyauchi (宮内 れんげ Miyauchi Renge)".
-baseurl:/happyflag.github.io
-twitter_username:LALA
-github_username:happyflag
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.junchaowang.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:  billyfish152
 
 # Build settings
 markdown: kramdown
